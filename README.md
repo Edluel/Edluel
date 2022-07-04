@@ -23,8 +23,8 @@ Icones de badges:
 
 <div align="center">
   <a href="https://github.com/edluel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edluel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" "img width="450cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edluel&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" img width="42%" src="https://github-readme-stats.vercel.app/api?username=Edluel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edluel&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 
@@ -41,4 +41,9 @@ Icones de badges:
 
 ##
 
+                                                                                                                                 
+<div>
+    <a href="https://www.linkedin.com/in/edluel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+                                                                                                                                 
 
