@@ -1,6 +1,6 @@
 <!--
-Repositórios '/user' servem para personalizar o perfil.
 Como um teste, este foi feito com commits tanto diretamente do github quanto do gitbash
+Nota: Este repositório '/edluel' foi utilizado para personalizar meu perfil.
 
 Guia de markdown para usar o .md:
     https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
@@ -12,10 +12,8 @@ Site de icons:
     https://devicon.dev/
 Icones de badges:
     https://dev.to/envoy_/150-badges-for-github-pnk
- 
-
 -->
-### Olá! Sou Edluel, aluno da ECT-UFRN 🤓
+### Olá! Sou Edluel, aluno de Ciências e Tecnologia na UFRN. 🤓
 
 - 👨🏾‍⚕️ Atualmente auxilio profissionais da saúde no transporte de pacientes.
 - 🌱 Atualmente estou estudando NodeJS, ReactJS, React Native.
