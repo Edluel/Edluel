@@ -16,7 +16,7 @@ Icones de badges:
 ### Olá! Sou Edluel, aluno de Ciências e Tecnologia na UFRN. 🤓
 
 - 👨🏾‍⚕️ Atualmente auxilio profissionais da saúde no transporte de pacientes.
-- 🌱 Atualmente estou estudando NodeJS, ReactJS, React Native.
+- 🌱 Atualmente estou estudando Node, React, React Native.
 
 
 <div align="center">
