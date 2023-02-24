@@ -13,11 +13,9 @@ Site de icons:
 Icones de badges:
     https://dev.to/envoy_/150-badges-for-github-pnk
 -->
-### Olá! Sou Edluel, aluno de Ciências e Tecnologia na UFRN. 🤓
+### Hello! I'm Edluel, a Front-End Developer studying Science and Technology at UFRN. 🤓
 
-- 👨🏾‍⚕️ Atualmente auxilio profissionais da saúde no transporte de pacientes.
-- 🌱 Programo todo dia para melhorar habilidades de HTML | CSS | JavaScript | SASS | REACT.
-
+- 🌱  I code every day to improve my skills in HTML | CSS | JavaScript | SASS | React.
 
 <div>
   <a href="https://github.com/edluel">
