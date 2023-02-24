@@ -19,9 +19,8 @@ Icones de badges:
 - 🌱 Programo todo dia para melhorar habilidades de HTML | CSS | JavaScript | SASS | REACT.
 
 
-<div align="center">
+<div>
   <a href="https://github.com/edluel">
-  <img height="180em" img width="42%" src="https://github-readme-stats.vercel.app/api?username=Edluel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edluel&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
