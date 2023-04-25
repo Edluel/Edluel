@@ -19,7 +19,7 @@ Icones de badges:
 
 <div>
   <a href="https://github.com/edluel">
-  <img height="180em" img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edluel&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edluel&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 
