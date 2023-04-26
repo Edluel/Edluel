@@ -23,7 +23,7 @@ Icones de badges:
 </div>
 
 
-<div style="display: inline_block"><br>                        
+<div style="display: inline_block; text-align: center;"><br>                        
   <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
   <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
