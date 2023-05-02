@@ -1,7 +1,4 @@
 <!--
-Como um teste, este foi feito com commits tanto diretamente do github quanto do gitbash
-Nota: Este repositório '/edluel' foi utilizado para personalizar meu perfil.
-
 Guia de markdown para usar o .md:
     https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
 Lista de Emojis:
