@@ -1,15 +1,3 @@
-<!--
-Guia de markdown para usar o .md:
-    https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
-Lista de Emojis:
-    https://emojipedia.org/search/?q=bag
- Tabela de informações:
-    https://github.com/anuraghazra/github-readme-stats
-Site de icons:
-    https://devicon.dev/
-Icones de badges:
-    https://dev.to/envoy_/150-badges-for-github-pnk
--->
 ### Hello! I'm Edluel, a Front-End Developer studying Science and Technology at UFRN. 🤓
 
 - 🌱  I code every day to improve my skills in HTML | CSS | JavaScript | SASS | ReactJS | ReactNative.
