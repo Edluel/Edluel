@@ -1,4 +1,4 @@
-### Hello! I'm Edluel, a Front-End Developer studying Science and Technology at UFRN. 🤓
+### Hello! I'm Edluel, a Full-Stack Developer studying Science and Technology at UFRN. 🤓
 
 - 🌱 I code every day to improve my skills in HTML | CSS | JavaScript | SASS | ReactJS | ReactNative.
 
