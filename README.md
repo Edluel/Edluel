@@ -1,6 +1,6 @@
 ### Hello! I'm Edluel, a Full-Stack Developer studying Science and Technology at UFRN. 🤓
 
-- 🌱 I code every day to improve my skills in HTML | CSS | JavaScript | SASS | ReactJS | ReactNative.
+- 🌱 I code every day to improve my skills in HTML | CSS | JavaScript | SASS | ReactJS | ReactNative | Node | Express | MongoDB | Postgres.
 
 <div>
   <a href="https://github.com/edluel">
