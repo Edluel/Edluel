@@ -1,33 +1,38 @@
-### Hello! I'm Edluel, a Full-Stack Developer studying Science and Technology at UFRN. 🤓
+# 👋 Hi, I'm Edluel Machado
+## 🚀 Full Stack Developer
 
-- 🌱 I code every day to improve my skills in HTML | CSS | JavaScript | SASS | ReactJS | ReactNative | Node | Express | MongoDB | Postgres.
+Full Stack Developer with experience in high-complexity projects, currently working at **Cactus Soft**. I specialize in building scalable, high-performance web applications using **JavaScript, React, Node.js, and PostgreSQL**. Passionate about performance optimization, automation, and seamless systems integration across desktop and mobile environments.
 
-<div>
-  <a href="https://github.com/edluel">
-  <img height="180em" img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edluel&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+### 🛠️ Tech Stack
+- **Languages:** JavaScript (ES6+)
+- **Frontend:** React, Material-UI, Recharts, React PDF Renderer
+- **Backend:** Node.js, Express, Socket.IO
+- **Databases:** PostgreSQL, Prisma ORM, TimescaleDB
+- **Tools & Automation:** Puppeteer, Nodemailer, NodeCache, Axios, Lodash
+- **DevOps & Workflow:** Git/GitHub, CI/CD, Agile/Scrum (Monday.com)
+- **Security & Auth:** JWT, bcrypt
 
+### 💼 Current Role & Highlights
+📍 **Full Stack Developer @ Cactus Soft** *(Jun 2024 – Present)*
+- 🌐 Designed & maintained secure REST APIs using Express & PostgreSQL (Prisma ORM) with JWT/bcrypt authentication
+- ⚡ Implemented real-time communication with Socket.IO & optimized background tasks using Node Schedule & Better Queue
+- 🤖 Automated reporting & workflows with Puppeteer, Nodemailer, and NodeCache
+- 🎨 Developed responsive React interfaces featuring advanced components (DataGrid, TreeView, Date Pickers), form validation, and data visualization
+- 📉 Boosted performance using `useMemo`, lazy loading, and child processes, efficiently rendering thousands of contracts
+- 🗄️ Migrated legacy ERP API calls to batch SQL queries, reducing processing time from *minutes to seconds*
+- 🔄 Managed CI/CD, weekly branch merges, staging environments, and sprint planning
 
-<div style="display: inline_block; text-align: center; "><br>                        
-  <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
-  <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
-  <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />        
-  <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-  <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  
-          
-    
-</div>
+### 🎓 Education & Research
+- **B.Sc. in Science and Technology** *(In Progress)* – Federal University of Rio Grande do Norte (UFRN)
+- 🔬 **Research Scholarship – Visual Odometry Project** *(2023)*: Authored technical documentation and presented project findings
+- 📜 **Certification:** SQL & NoSQL Databases – Geek University *(Apr 2022)*
 
+### 🌍 Languages & Contact
+- 🇧🇷 Portuguese: Native
+- 🇺🇸 English: Advanced
+- 📧 [edluel_machado@hotmail.com](mailto:edluel_machado@hotmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/edluel)
+- 📱 WhatsApp: +55 84 99646-1042
 
-##
-
-                                                                                                                                 
-<div>
-    <a href="https://www.linkedin.com/in/edluel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+---
+💡 *Open to collaborations, open-source contributions, and challenging projects. Let's connect!*
